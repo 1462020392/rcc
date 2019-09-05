@@ -10,7 +10,7 @@ public class Test {
 	public void	show2() {
 		System.out.println("今天周四!!!!");
 	}
-	public void	show3() {
+	public void	show4() {
 		System.out.println("今天周四!!!!");
 	}
 	
